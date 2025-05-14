@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CeresBusManagement.Properties.Resources" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAAAAAAABEIAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.AddNewBusForm" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yAAAABAAACARADACAAmAAoACEgEAQABABIBAAwAACAg=</HashCode>
+      <FileName>AddNewBusForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.Employee" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEEAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.Bus" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAIAQEAAAAAAAAAAgEAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.BusManagement" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAACAAAAACAAAAAAAAAEAAAAAkAAQAAAAAAABAI=</HashCode>
+      <FileName>BusManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.Conductor" Collapsed="true">
+    <Position X="9" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAAAAKCgAABAAAACAAIACAAEAQKFAAJAAAUAAAAA=</HashCode>
+      <FileName>Conductor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.ConductorAcc" Collapsed="true">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAEAAAAiAAADAAAACAAMACAAEAQIBABJABAgAAAAA=</HashCode>
+      <FileName>ConductorAcc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.Earnings" Collapsed="true">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CUAgECCABCAAABQCAACAQKAGAgkARKFAAIQAEAAACAA=</HashCode>
+      <FileName>Earnings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.Form1" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAACABAIAAAACAAAACAAAAQQAIgIAQAAAAAAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.Form2" Collapsed="true">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GCAQAAIQACABABICEQKQAIACEgFKSYBoEKAAAAAAACY=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.Form3" Collapsed="true">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAgAAAAAACAEAAAAAACAAIACEgEAQABAAJAAAAAAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.Form4" Collapsed="true">
+    <Position X="3.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAJAAADAAABACAACAIIICAAAAQiRQAIAAAAAABoA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.MainForm" Collapsed="true">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.ManagementTicket" Collapsed="true">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAAAAEQgICAAApEAAACgAAyCAAAARAAEAIAAAAAAEAA=</HashCode>
+      <FileName>ManagementTicket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.PassengerTicket" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAAAAEQgICAAApEAAACgAAyCAAAABAAECIAAAAAAEAA=</HashCode>
+      <FileName>PassengerTicket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.Program" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.RemoveBus" Collapsed="true">
+    <Position X="5.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAABAAACAQCDAQAAHAAIACEggAQABgBIAAAwAECAI=</HashCode>
+      <FileName>RemoveBus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.SearchBus" Collapsed="true">
+    <Position X="5.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAAABAAACAAABAAAAiAAIACEgAAQIBgBIBAAwAACAI=</HashCode>
+      <FileName>SearchBus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.TicketStation" Collapsed="true">
+    <Position X="9" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAQAAIQACABEAICEAKQAIACEoEKSYBABKAAAgAAACw=</HashCode>
+      <FileName>TicketStation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CeresBusManagement.UpdateBus" Collapsed="true">
+    <Position X="5.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>2AEAABAAACAAADhAECHAAoACEAEAQABiBIAAAwAACAI=</HashCode>
+      <FileName>UpdateBus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
